@@ -1,10 +1,10 @@
 ## Daily note about studying Data Science & Analytics
--[] Data Science
+* [ ] Data Science
 
--[] Machine Learning
++ [ ] Machine Learning
 
--[] Deep Learning
+- [x] Deep Learning
 
--[] Data Analytics
+- [ ] Data Analytics
 
 
