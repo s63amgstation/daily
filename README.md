@@ -6,5 +6,3 @@
 - [x] Deep Learning
 
 - [x] Data Analytics
-
-### TEST
